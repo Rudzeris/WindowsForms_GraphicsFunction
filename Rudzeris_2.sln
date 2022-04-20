@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rudzeris_2", "WindowsFormsApplication18\Rudzeris_2.csproj", "{620DD6D6-4185-41C6-990E-E60E76E7FEEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{620DD6D6-4185-41C6-990E-E60E76E7FEEB}.Debug|x86.ActiveCfg = Debug|x86
+		{620DD6D6-4185-41C6-990E-E60E76E7FEEB}.Debug|x86.Build.0 = Debug|x86
+		{620DD6D6-4185-41C6-990E-E60E76E7FEEB}.Release|x86.ActiveCfg = Release|x86
+		{620DD6D6-4185-41C6-990E-E60E76E7FEEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDBA04B3-0616-414C-982B-CD06B1F1863B}
+	EndGlobalSection
+EndGlobal

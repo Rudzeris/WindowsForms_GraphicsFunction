@@ -1,0 +1,65 @@
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+C:\Users\Студент\Documents\Visual Studio 2010\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Documents and Settings\Рудник\Рабочий стол\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18(График Ани)\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+C:\Documents and Settings\Рудник\Рабочий стол\Projects\WindowsFormsApplication18(График Ани)\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.AssemblyReference.cache
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+F:\dim-s\OneDrive\Study\Lectures\Графика\3D\Методические указания\Примеры\2 лаба\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csprojAssemblyReference.cache
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+E:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csprojAssemblyReference.cache
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+F:\vuz\zd2_inf\WindowsFormsApplication18\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
+D:\Programming\P2\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe.config
+D:\Programming\P2\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.exe
+D:\Programming\P2\WindowsFormsApplication18\bin\Debug\WindowsFormsApplication18.pdb
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.AssemblyReference.cache
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.SuggestedBindingRedirects.cache
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Form1.resources
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.Properties.Resources.resources
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.GenerateResource.cache
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.csproj.CoreCompileInputs.cache
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.exe
+D:\Programming\P2\WindowsFormsApplication18\obj\x86\Debug\WindowsFormsApplication18.pdb
